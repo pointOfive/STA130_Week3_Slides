@@ -774,7 +774,7 @@ olynew %>% summarize(n_NumberOfRows=n(), n_NumberOfMeasurements=sum(!is.na(major
 
 ## Rstudio Demo
 
-1. Click this [jupyterhub repo launcher link](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_Week2_Demo&urlpath=rstudio%2F&branch=main)
+1. Click this [jupyterhub repo launcher link](https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FpointOfive%2FSTA130_Week3_Demo&urlpath=rstudio%2F&branch=main)
 
 <!-- Nathan's slides use "which major" data from FiveThirtyEight, if interested -->
 
